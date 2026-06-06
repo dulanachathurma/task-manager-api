@@ -1,7 +1,4 @@
-// =============================================
-//  controllers/taskController.js
-//  Handles: Create, Read, Update, Delete Tasks
-// =============================================
+
 
 const Task = require('../models/Task');
 
