@@ -1,7 +1,4 @@
-// =============================================
-//  controllers/authController.js
-//  Handles: Register & Login
-// =============================================
+
 
 const jwt  = require('jsonwebtoken');
 const User = require('../models/User');
