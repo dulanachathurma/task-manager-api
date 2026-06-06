@@ -1,7 +1,3 @@
-// =============================================
-//  server.js - Main Entry Point
-//  SESA Mentorship - Task 04
-// =============================================
 
 const express = require('express');
 const dotenv = require('dotenv');
