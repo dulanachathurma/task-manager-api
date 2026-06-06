@@ -1,6 +1,4 @@
-// =============================================
-//  models/User.js - User Schema
-// =============================================
+
 
 const mongoose = require('mongoose');
 const bcrypt   = require('bcryptjs');
